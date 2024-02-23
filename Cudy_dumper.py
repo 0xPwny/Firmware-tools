@@ -2,7 +2,7 @@ from pwn import *
 from time import sleep
 
 # #
-#> Written during playing with Cuddy WR300
+#> Written during playing with Cudy WR300
 # #
 
 r = remote("router.local",23)
